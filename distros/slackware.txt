@@ -1,0 +1,2 @@
+Criada em 1993 por Patrick Volkerding, Slackware é a mais antiga distribuição Linux ainda em 
+atividade.
