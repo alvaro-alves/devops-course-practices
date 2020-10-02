@@ -1,0 +1,5 @@
+O Linux Educacional é um projeto do Governo Federal que busca o melhor
+aproveitamento dos ambientes de informática nas escolas. 
+Com a utilização do software livre, o LE potencializa o uso das tecnologias 
+educacionais, garantindo melhoria de ensino, inserção tecnológica e,
+consequentemente, social.

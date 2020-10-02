@@ -1,0 +1,4 @@
+O Windowsfx foi desenvolvido para aproveitar toda a curva de aprendizado dos
+usuários nativos da plataforma Microsoft© Windows®. Dito isto, é esperado que
+o Windowsfx tenha uma aparência e comportamento semelhante ao Microsoft© 
+Windows®. 
